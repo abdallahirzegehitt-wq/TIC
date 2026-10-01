@@ -1,1 +1,1 @@
-lib/main.dart
+pubspec.yaml
